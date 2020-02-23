@@ -1,0 +1,1528 @@
+[
+    {
+        "provinceName": "广西",
+        "provincePhonetic": "Guangxi",
+        "city": [{
+                "cityName": "钦州",
+                "cityPhonetic": "Qinzhou"
+            },
+            {
+                "cityName": "崇左",
+                "cityPhonetic": "Chongzuo"
+            },
+            {
+                "cityName": "河池",
+                "cityPhonetic": "Hechi"
+            },
+            {
+                "cityName": "北海",
+                "cityPhonetic": "Beihai"
+            },
+            {
+                "cityName": "梧州",
+                "cityPhonetic": "Wuzhou"
+            },
+            {
+                "cityName": "南宁",
+                "cityPhonetic": "Nanning"
+            },
+            {
+                "cityName": "百色",
+                "cityPhonetic": "Baise"
+            },
+            {
+                "cityName": "桂林",
+                "cityPhonetic": "Guilin"
+            },
+            {
+                "cityName": "来宾",
+                "cityPhonetic": "Laibin"
+            },
+            {
+                "cityName": "贺州",
+                "cityPhonetic": "Hezhou"
+            },
+            {
+                "cityName": "玉林",
+                "cityPhonetic": "Yulin"
+            },
+            {
+                "cityName": "柳州",
+                "cityPhonetic": "Liuzhou"
+            },
+            {
+                "cityName": "防城港",
+                "cityPhonetic": "Fangchenggang"
+            },
+            {
+                "cityName": "贵港",
+                "cityPhonetic": "Guigang"
+            }
+        ]
+    },
+    {
+        "provinceName": "澳门",
+        "provincePhonetic": "Aomen",
+        "city": [{
+            "cityName": "澳门",
+            "cityPhonetic": "Aomen"
+        }]
+    },
+    {
+        "provinceName": "海南",
+        "provincePhonetic": "Hainan",
+        "city": [{
+                "cityName": "海口",
+                "cityPhonetic": "Haikou"
+            },
+            {
+                "cityName": "三亚",
+                "cityPhonetic": "Sanya"
+            }
+        ]
+    },
+    {
+        "provinceName": "宁夏",
+        "provincePhonetic": "Ningxia",
+        "city": [{
+                "cityName": "银川",
+                "cityPhonetic": "Yinchuan"
+            },
+            {
+                "cityName": "吴忠",
+                "cityPhonetic": "Wuzhong"
+            },
+            {
+                "cityName": "固原",
+                "cityPhonetic": "Guyuan"
+            },
+            {
+                "cityName": "石嘴山",
+                "cityPhonetic": "Shizuishan"
+            },
+            {
+                "cityName": "中卫",
+                "cityPhonetic": "Zhongwei"
+            }
+        ]
+    },
+    {
+        "provinceName": "青海",
+        "provincePhonetic": "Qinghai",
+        "city": [{
+                "cityName": "海北藏族自治州",
+                "cityPhonetic": "Haibeicangzuzizhizhou"
+            },
+            {
+                "cityName": "黄南藏族自治州",
+                "cityPhonetic": "Huangnancangzuzizhizhou"
+            },
+            {
+                "cityName": "果洛藏族自治州",
+                "cityPhonetic": "Guoluocangzuzizhizhou"
+            },
+            {
+                "cityName": "西宁",
+                "cityPhonetic": "Xining"
+            },
+            {
+                "cityName": "玉树藏族自治州",
+                "cityPhonetic": "Yushucangzuzizhizhou"
+            },
+            {
+                "cityName": "海西蒙古族藏族自治州",
+                "cityPhonetic": "Haiximengguzucangzuzizhizhou"
+            },
+            {
+                "cityName": "海南藏族自治州",
+                "cityPhonetic": "Hainancangzuzizhizhou"
+            },
+            {
+                "cityName": "海东",
+                "cityPhonetic": "Haidong"
+            }
+        ]
+    },
+    {
+        "provinceName": "浙江",
+        "provincePhonetic": "Zhejiang",
+        "city": [{
+                "cityName": "舟山",
+                "cityPhonetic": "Zhoushan"
+            },
+            {
+                "cityName": "湖州",
+                "cityPhonetic": "Huzhou"
+            },
+            {
+                "cityName": "嘉兴",
+                "cityPhonetic": "Jiaxing"
+            },
+            {
+                "cityName": "衢州",
+                "cityPhonetic": "Quzhou"
+            },
+            {
+                "cityName": "金华",
+                "cityPhonetic": "Jinhua"
+            },
+            {
+                "cityName": "台州",
+                "cityPhonetic": "Taizhou"
+            },
+            {
+                "cityName": "宁波",
+                "cityPhonetic": "Ningbo"
+            },
+            {
+                "cityName": "杭州",
+                "cityPhonetic": "Hangzhou"
+            },
+            {
+                "cityName": "丽水",
+                "cityPhonetic": "Lishui"
+            },
+            {
+                "cityName": "温州",
+                "cityPhonetic": "Wenzhou"
+            },
+            {
+                "cityName": "绍兴",
+                "cityPhonetic": "Shaoxing"
+            }
+        ]
+    },
+    {
+        "provinceName": "香港",
+        "provincePhonetic": "Xianggang",
+        "city": [{
+            "cityName": "香港",
+            "cityPhonetic": "Xianggang"
+        }]
+    },
+    {
+        "provinceName": "贵州",
+        "provincePhonetic": "Guizhou",
+        "city": [{
+                "cityName": "黔南布依族苗族自治州",
+                "cityPhonetic": "Qiannanbuyizumiaozuzizhizhou"
+            },
+            {
+                "cityName": "铜仁",
+                "cityPhonetic": "Tongren"
+            },
+            {
+                "cityName": "黔西南布依族苗族自治州",
+                "cityPhonetic": "Qianxinanbuyizumiaozuzizhizhou"
+            },
+            {
+                "cityName": "黔东南苗族侗族自治州",
+                "cityPhonetic": "Qiandongnanmiaozudongzuzizhizhou"
+            },
+            {
+                "cityName": "安顺",
+                "cityPhonetic": "Anshun"
+            },
+            {
+                "cityName": "贵阳",
+                "cityPhonetic": "Guiyang"
+            },
+            {
+                "cityName": "毕节",
+                "cityPhonetic": "Bijie"
+            },
+            {
+                "cityName": "遵义",
+                "cityPhonetic": "Zunyi"
+            },
+            {
+                "cityName": "六盘水",
+                "cityPhonetic": "Liupanshui"
+            }
+        ]
+    },
+    {
+        "provinceName": "陕西",
+        "provincePhonetic": "Shaanxi",
+        "city": [{
+                "cityName": "延安",
+                "cityPhonetic": "Yanan"
+            },
+            {
+                "cityName": "渭南",
+                "cityPhonetic": "Weinan"
+            },
+            {
+                "cityName": "宝鸡",
+                "cityPhonetic": "Baoji"
+            },
+            {
+                "cityName": "安康",
+                "cityPhonetic": "Ankang"
+            },
+            {
+                "cityName": "铜川",
+                "cityPhonetic": "Tongchuan"
+            },
+            {
+                "cityName": "西安",
+                "cityPhonetic": "Xian"
+            },
+            {
+                "cityName": "榆林",
+                "cityPhonetic": "Yulin"
+            },
+            {
+                "cityName": "汉中",
+                "cityPhonetic": "Hanzhong"
+            },
+            {
+                "cityName": "咸阳",
+                "cityPhonetic": "Xianyang"
+            },
+            {
+                "cityName": "商洛",
+                "cityPhonetic": "Shangluo"
+            }
+        ]
+    },
+    {
+        "provinceName": "云南",
+        "provincePhonetic": "Yunnan",
+        "city": [{
+                "cityName": "昭通",
+                "cityPhonetic": "Zhaotong"
+            },
+            {
+                "cityName": "怒江傈僳族自治州",
+                "cityPhonetic": "Nujianglisuzuzizhizhou"
+            },
+            {
+                "cityName": "临沧",
+                "cityPhonetic": "Lincang"
+            },
+            {
+                "cityName": "文山壮族苗族自治州",
+                "cityPhonetic": "Wenshanzhuangzumiaozuzizhizhou"
+            },
+            {
+                "cityName": "西双版纳傣族自治州",
+                "cityPhonetic": "Xishuangbannadaizuzizhizhou"
+            },
+            {
+                "cityName": "楚雄彝族自治州",
+                "cityPhonetic": "Chuxiongyizuzizhizhou"
+            },
+            {
+                "cityName": "丽江",
+                "cityPhonetic": "Lijiang"
+            },
+            {
+                "cityName": "德宏傣族景颇族自治州",
+                "cityPhonetic": "Dehongdaizujingpozuzizhizhou"
+            },
+            {
+                "cityName": "保山",
+                "cityPhonetic": "Baoshan"
+            },
+            {
+                "cityName": "大理白族自治州",
+                "cityPhonetic": "Dalibaizuzizhizhou"
+            },
+            {
+                "cityName": "迪庆藏族自治州",
+                "cityPhonetic": "Diqingcangzuzizhizhou"
+            },
+            {
+                "cityName": "玉溪",
+                "cityPhonetic": "Yuxi"
+            },
+            {
+                "cityName": "红河哈尼族彝族自治州",
+                "cityPhonetic": "Honghehanizuyizuzizhizhou"
+            },
+            {
+                "cityName": "曲靖",
+                "cityPhonetic": "Qujing"
+            },
+            {
+                "cityName": "思茅",
+                "cityPhonetic": "Simao"
+            },
+            {
+                "cityName": "昆明",
+                "cityPhonetic": "Kunming"
+            }
+        ]
+    },
+    {
+        "provinceName": "上海",
+        "provincePhonetic": "Shanghai",
+        "city": [{
+            "cityName": "上海",
+            "cityPhonetic": "Shanghai"
+        }]
+    },
+    {
+        "provinceName": "黑龙江",
+        "provincePhonetic": "Heilongjiang",
+        "city": [{
+                "cityName": "大庆",
+                "cityPhonetic": "Daqing"
+            },
+            {
+                "cityName": "大兴安岭",
+                "cityPhonetic": "Daxinganling"
+            },
+            {
+                "cityName": "双鸭山",
+                "cityPhonetic": "Shuangyashan"
+            },
+            {
+                "cityName": "鹤岗",
+                "cityPhonetic": "Hegang"
+            },
+            {
+                "cityName": "鸡西",
+                "cityPhonetic": "Jixi"
+            },
+            {
+                "cityName": "佳木斯",
+                "cityPhonetic": "Jiamusi"
+            },
+            {
+                "cityName": "七台河",
+                "cityPhonetic": "Qitaihe"
+            },
+            {
+                "cityName": "伊春",
+                "cityPhonetic": "Yichun"
+            },
+            {
+                "cityName": "哈尔滨",
+                "cityPhonetic": "Haerbin"
+            },
+            {
+                "cityName": "牡丹江",
+                "cityPhonetic": "Mudanjiang"
+            },
+            {
+                "cityName": "黑河",
+                "cityPhonetic": "Heihe"
+            },
+            {
+                "cityName": "齐齐哈尔",
+                "cityPhonetic": "Qiqihaer"
+            },
+            {
+                "cityName": "绥化",
+                "cityPhonetic": "Suihua"
+            }
+        ]
+    },
+    {
+        "provinceName": "新疆",
+        "provincePhonetic": "Xinjiang",
+        "city": [{
+                "cityName": "喀什",
+                "cityPhonetic": "Kashi"
+            },
+            {
+                "cityName": "巴音郭楞蒙古自治州",
+                "cityPhonetic": "Bayinguolengmengguzizhizhou"
+            },
+            {
+                "cityName": "吐鲁番",
+                "cityPhonetic": "Tulufan"
+            },
+            {
+                "cityName": "克孜勒苏柯尔克孜自治州",
+                "cityPhonetic": "Kezilesukeerkezizizhizhou"
+            },
+            {
+                "cityName": "昌吉回族自治州",
+                "cityPhonetic": "Changjihuizuzizhizhou"
+            },
+            {
+                "cityName": "伊犁哈萨克自治州",
+                "cityPhonetic": "Yilihasakezizhizhou"
+            },
+            {
+                "cityName": "阿勒泰",
+                "cityPhonetic": "Aletai"
+            },
+            {
+                "cityName": "塔城",
+                "cityPhonetic": "Tacheng"
+            },
+            {
+                "cityName": "阿克苏",
+                "cityPhonetic": "Akesu"
+            },
+            {
+                "cityName": "哈密",
+                "cityPhonetic": "Hami"
+            },
+            {
+                "cityName": "乌鲁木齐",
+                "cityPhonetic": "Wulumuqi"
+            },
+            {
+                "cityName": "博尔塔拉蒙古自治州",
+                "cityPhonetic": "Boertalamengguzizhizhou"
+            },
+            {
+                "cityName": "克拉玛依",
+                "cityPhonetic": "Kelamayi"
+            },
+            {
+                "cityName": "和田",
+                "cityPhonetic": "Hetian"
+            }
+        ]
+    },
+    {
+        "provinceName": "北京",
+        "provincePhonetic": "Beijing",
+        "city": [{
+            "cityName": "北京",
+            "cityPhonetic": "Beijing"
+        }]
+    },
+    {
+        "provinceName": "广东",
+        "provincePhonetic": "Guangdong",
+        "city": [{
+                "cityName": "汕尾",
+                "cityPhonetic": "Shanwei"
+            },
+            {
+                "cityName": "中山",
+                "cityPhonetic": "Zhongshan"
+            },
+            {
+                "cityName": "韶关",
+                "cityPhonetic": "Shaoguan"
+            },
+            {
+                "cityName": "东莞",
+                "cityPhonetic": "Dongguan"
+            },
+            {
+                "cityName": "江门",
+                "cityPhonetic": "Jiangmen"
+            },
+            {
+                "cityName": "茂名",
+                "cityPhonetic": "Maoming"
+            },
+            {
+                "cityName": "佛山",
+                "cityPhonetic": "Foshan"
+            },
+            {
+                "cityName": "广州",
+                "cityPhonetic": "Guangzhou"
+            },
+            {
+                "cityName": "珠海",
+                "cityPhonetic": "Zhuhai"
+            },
+            {
+                "cityName": "湛江",
+                "cityPhonetic": "Zhanjiang"
+            },
+            {
+                "cityName": "深圳",
+                "cityPhonetic": "Shenzhen"
+            },
+            {
+                "cityName": "云浮",
+                "cityPhonetic": "Yunfu"
+            },
+            {
+                "cityName": "河源",
+                "cityPhonetic": "Heyuan"
+            },
+            {
+                "cityName": "惠州",
+                "cityPhonetic": "Huizhou"
+            },
+            {
+                "cityName": "阳江",
+                "cityPhonetic": "Yangjiang"
+            },
+            {
+                "cityName": "汕头",
+                "cityPhonetic": "Shantou"
+            },
+            {
+                "cityName": "揭阳",
+                "cityPhonetic": "Jieyang"
+            },
+            {
+                "cityName": "清远",
+                "cityPhonetic": "Qingyuan"
+            },
+            {
+                "cityName": "潮州",
+                "cityPhonetic": "Chaozhou"
+            },
+            {
+                "cityName": "肇庆",
+                "cityPhonetic": "Zhaoqing"
+            },
+            {
+                "cityName": "梅州",
+                "cityPhonetic": "Meizhou"
+            }
+        ]
+    },
+    {
+        "provinceName": "西藏",
+        "provincePhonetic": "Xizang",
+        "city": [{
+                "cityName": "昌都",
+                "cityPhonetic": "Changdu"
+            },
+            {
+                "cityName": "那曲",
+                "cityPhonetic": "Naqu"
+            },
+            {
+                "cityName": "林芝",
+                "cityPhonetic": "Linzhi"
+            },
+            {
+                "cityName": "阿里",
+                "cityPhonetic": "Ali"
+            },
+            {
+                "cityName": "日喀则",
+                "cityPhonetic": "Rikaze"
+            },
+            {
+                "cityName": "拉萨",
+                "cityPhonetic": "Lasa"
+            },
+            {
+                "cityName": "山南",
+                "cityPhonetic": "Shannan"
+            }
+        ]
+    },
+    {
+        "provinceName": "山东",
+        "provincePhonetic": "Shandong",
+        "city": [{
+                "cityName": "诸城",
+                "cityPhonetic": "Zhucheng"
+            },
+            {
+                "cityName": "聊城",
+                "cityPhonetic": "Liaocheng"
+            },
+            {
+                "cityName": "济宁",
+                "cityPhonetic": "Jining"
+            },
+            {
+                "cityName": "临沂",
+                "cityPhonetic": "Linyi"
+            },
+            {
+                "cityName": "威海",
+                "cityPhonetic": "Weihai"
+            },
+            {
+                "cityName": "德州",
+                "cityPhonetic": "Dezhou"
+            },
+            {
+                "cityName": "东营",
+                "cityPhonetic": "Dongying"
+            },
+            {
+                "cityName": "济南",
+                "cityPhonetic": "Jinan"
+            },
+            {
+                "cityName": "潍坊",
+                "cityPhonetic": "Weifang"
+            },
+            {
+                "cityName": "烟台",
+                "cityPhonetic": "Yantai"
+            },
+            {
+                "cityName": "荷泽",
+                "cityPhonetic": "Heze"
+            },
+            {
+                "cityName": "枣庄",
+                "cityPhonetic": "Zaozhuang"
+            },
+            {
+                "cityName": "淄博",
+                "cityPhonetic": "Zibo"
+            },
+            {
+                "cityName": "滨州",
+                "cityPhonetic": "Binzhou"
+            },
+            {
+                "cityName": "日照",
+                "cityPhonetic": "Rizhao"
+            },
+            {
+                "cityName": "青岛",
+                "cityPhonetic": "Qingdao"
+            },
+            {
+                "cityName": "泰安",
+                "cityPhonetic": "Taian"
+            },
+            {
+                "cityName": "莱芜",
+                "cityPhonetic": "Laiwu"
+            }
+        ]
+    },
+    {
+        "provinceName": "江西",
+        "provincePhonetic": "Jiangxi",
+        "city": [{
+                "cityName": "九江",
+                "cityPhonetic": "Jiujiang"
+            },
+            {
+                "cityName": "鹰潭",
+                "cityPhonetic": "Yingtan"
+            },
+            {
+                "cityName": "上饶",
+                "cityPhonetic": "Shangrao"
+            },
+            {
+                "cityName": "南昌",
+                "cityPhonetic": "Nanchang"
+            },
+            {
+                "cityName": "抚州",
+                "cityPhonetic": "Fuzhou"
+            },
+            {
+                "cityName": "宜春",
+                "cityPhonetic": "Yichun"
+            },
+            {
+                "cityName": "吉安",
+                "cityPhonetic": "Jian"
+            },
+            {
+                "cityName": "景德镇",
+                "cityPhonetic": "Jingdezhen"
+            },
+            {
+                "cityName": "赣州",
+                "cityPhonetic": "Ganzhou"
+            },
+            {
+                "cityName": "萍乡",
+                "cityPhonetic": "Pingxiang"
+            },
+            {
+                "cityName": "新余",
+                "cityPhonetic": "Xinyu"
+            }
+        ]
+    },
+    {
+        "provinceName": "河南",
+        "provincePhonetic": "Henan",
+        "city": [{
+                "cityName": "漯河",
+                "cityPhonetic": "Leihe"
+            },
+            {
+                "cityName": "新乡",
+                "cityPhonetic": "Xinxiang"
+            },
+            {
+                "cityName": "许昌",
+                "cityPhonetic": "Xuchang"
+            },
+            {
+                "cityName": "信阳",
+                "cityPhonetic": "Xinyang"
+            },
+            {
+                "cityName": "安阳",
+                "cityPhonetic": "Anyang"
+            },
+            {
+                "cityName": "洛阳",
+                "cityPhonetic": "Luoyang"
+            },
+            {
+                "cityName": "三门峡",
+                "cityPhonetic": "Sanmenxia"
+            },
+            {
+                "cityName": "平顶山",
+                "cityPhonetic": "Pingdingshan"
+            },
+            {
+                "cityName": "焦作",
+                "cityPhonetic": "Jiaozuo"
+            },
+            {
+                "cityName": "周口",
+                "cityPhonetic": "Zhoukou"
+            },
+            {
+                "cityName": "濮阳",
+                "cityPhonetic": "Puyang"
+            },
+            {
+                "cityName": "南阳",
+                "cityPhonetic": "Nanyang"
+            },
+            {
+                "cityName": "驻马店",
+                "cityPhonetic": "Zhumadian"
+            },
+            {
+                "cityName": "郑州",
+                "cityPhonetic": "Zhengzhou"
+            },
+            {
+                "cityName": "鹤壁",
+                "cityPhonetic": "Hebi"
+            },
+            {
+                "cityName": "开封",
+                "cityPhonetic": "Kaifeng"
+            },
+            {
+                "cityName": "商丘",
+                "cityPhonetic": "Shangqiu"
+            }
+        ]
+    },
+    {
+        "provinceName": "河北",
+        "provincePhonetic": "Hebei",
+        "city": [{
+                "cityName": "沧州",
+                "cityPhonetic": "Cangzhou"
+            },
+            {
+                "cityName": "石家庄",
+                "cityPhonetic": "Shijiazhuang"
+            },
+            {
+                "cityName": "唐山",
+                "cityPhonetic": "Tangshan"
+            },
+            {
+                "cityName": "邢台",
+                "cityPhonetic": "Xingtai"
+            },
+            {
+                "cityName": "邯郸",
+                "cityPhonetic": "Handan"
+            },
+            {
+                "cityName": "衡水",
+                "cityPhonetic": "Hengshui"
+            },
+            {
+                "cityName": "承德",
+                "cityPhonetic": "Chengde"
+            },
+            {
+                "cityName": "保定",
+                "cityPhonetic": "Baoding"
+            },
+            {
+                "cityName": "张家口",
+                "cityPhonetic": "Zhangjiakou"
+            },
+            {
+                "cityName": "秦皇岛",
+                "cityPhonetic": "Qinhuangdao"
+            },
+            {
+                "cityName": "廊坊",
+                "cityPhonetic": "Langfang"
+            }
+        ]
+    },
+    {
+        "provinceName": "台湾",
+        "provincePhonetic": "Taiwan",
+        "city": [
+
+        ]
+    },
+    {
+        "provinceName": "湖北",
+        "provincePhonetic": "Hubei",
+        "city": [{
+                "cityName": "襄樊",
+                "cityPhonetic": "Xiangfan"
+            },
+            {
+                "cityName": "黄冈",
+                "cityPhonetic": "Huanggang"
+            },
+            {
+                "cityName": "武汉",
+                "cityPhonetic": "Wuhan"
+            },
+            {
+                "cityName": "随州",
+                "cityPhonetic": "Suizhou"
+            },
+            {
+                "cityName": "孝感",
+                "cityPhonetic": "Xiaogan"
+            },
+            {
+                "cityName": "恩施土家族苗族自治州",
+                "cityPhonetic": "Enshitujiazumiaozuzizhizhou"
+            },
+            {
+                "cityName": "鄂州",
+                "cityPhonetic": "Ezhou"
+            },
+            {
+                "cityName": "十堰",
+                "cityPhonetic": "Shiyan"
+            },
+            {
+                "cityName": "荆门",
+                "cityPhonetic": "Jingmen"
+            },
+            {
+                "cityName": "黄石",
+                "cityPhonetic": "Huangshi"
+            },
+            {
+                "cityName": "宜昌",
+                "cityPhonetic": "Yichang"
+            },
+            {
+                "cityName": "荆州",
+                "cityPhonetic": "Jingzhou"
+            },
+            {
+                "cityName": "咸宁",
+                "cityPhonetic": "Xianning"
+            }
+        ]
+    },
+    {
+        "provinceName": "重庆",
+        "provincePhonetic": "Chongqing",
+        "city": [{
+            "cityName": "重庆",
+            "cityPhonetic": "Chongqing"
+        }]
+    },
+    {
+        "provinceName": "内蒙古",
+        "provincePhonetic": "Neimenggu",
+        "city": [{
+                "cityName": "乌海",
+                "cityPhonetic": "Wuhai"
+            },
+            {
+                "cityName": "乌兰察布",
+                "cityPhonetic": "Wulanchabu"
+            },
+            {
+                "cityName": "呼和浩特",
+                "cityPhonetic": "Huhehaote"
+            },
+            {
+                "cityName": "鄂尔多斯",
+                "cityPhonetic": "Eerduosi"
+            },
+            {
+                "cityName": "锡林郭勒盟",
+                "cityPhonetic": "Xilinguolemeng"
+            },
+            {
+                "cityName": "呼伦贝尔",
+                "cityPhonetic": "Hulunbeier"
+            },
+            {
+                "cityName": "巴彦淖尔",
+                "cityPhonetic": "Bayanneer"
+            },
+            {
+                "cityName": "阿拉善盟",
+                "cityPhonetic": "Alashanmeng"
+            },
+            {
+                "cityName": "包头",
+                "cityPhonetic": "Baotou"
+            },
+            {
+                "cityName": "赤峰",
+                "cityPhonetic": "Chifeng"
+            },
+            {
+                "cityName": "通辽",
+                "cityPhonetic": "Tongliao"
+            },
+            {
+                "cityName": "兴安盟",
+                "cityPhonetic": "Xinganmeng"
+            }
+        ]
+    },
+    {
+        "provinceName": "天津",
+        "provincePhonetic": "Tianjin",
+        "city": [{
+            "cityName": "天津",
+            "cityPhonetic": "Tianjin"
+        }]
+    },
+    {
+        "provinceName": "甘肃",
+        "provincePhonetic": "Gansu",
+        "city": [{
+                "cityName": "酒泉",
+                "cityPhonetic": "Jiuquan"
+            },
+            {
+                "cityName": "临夏回族自治州",
+                "cityPhonetic": "Linxiahuizuzizhizhou"
+            },
+            {
+                "cityName": "天水",
+                "cityPhonetic": "Tianshui"
+            },
+            {
+                "cityName": "白银",
+                "cityPhonetic": "Baiyin"
+            },
+            {
+                "cityName": "定西",
+                "cityPhonetic": "Dingxi"
+            },
+            {
+                "cityName": "兰州",
+                "cityPhonetic": "Lanzhou"
+            },
+            {
+                "cityName": "甘南藏族自治州",
+                "cityPhonetic": "Gannancangzuzizhizhou"
+            },
+            {
+                "cityName": "张掖",
+                "cityPhonetic": "Zhangye"
+            },
+            {
+                "cityName": "陇南",
+                "cityPhonetic": "Longnan"
+            },
+            {
+                "cityName": "嘉峪关",
+                "cityPhonetic": "Jiayuguan"
+            },
+            {
+                "cityName": "庆阳",
+                "cityPhonetic": "Qingyang"
+            },
+            {
+                "cityName": "武威",
+                "cityPhonetic": "Wuwei"
+            },
+            {
+                "cityName": "金昌",
+                "cityPhonetic": "Jinchang"
+            },
+            {
+                "cityName": "平凉",
+                "cityPhonetic": "Pingliang"
+            }
+        ]
+    },
+    {
+        "provinceName": "安徽",
+        "provincePhonetic": "Anhui",
+        "city": [{
+                "cityName": "铜陵",
+                "cityPhonetic": "Tongling"
+            },
+            {
+                "cityName": "亳州",
+                "cityPhonetic": "Bozhou"
+            },
+            {
+                "cityName": "巢湖",
+                "cityPhonetic": "Chaohu"
+            },
+            {
+                "cityName": "黄山",
+                "cityPhonetic": "Huangshan"
+            },
+            {
+                "cityName": "安庆",
+                "cityPhonetic": "Anqing"
+            },
+            {
+                "cityName": "宿州",
+                "cityPhonetic": "Suzhou"
+            },
+            {
+                "cityName": "六安",
+                "cityPhonetic": "Liuan"
+            },
+            {
+                "cityName": "蚌埠",
+                "cityPhonetic": "Bangbu"
+            },
+            {
+                "cityName": "合肥",
+                "cityPhonetic": "Hefei"
+            },
+            {
+                "cityName": "池州",
+                "cityPhonetic": "Chizhou"
+            },
+            {
+                "cityName": "芜湖",
+                "cityPhonetic": "Wuhu"
+            },
+            {
+                "cityName": "宣城",
+                "cityPhonetic": "Xuancheng"
+            },
+            {
+                "cityName": "淮南",
+                "cityPhonetic": "Huainan"
+            },
+            {
+                "cityName": "阜阳",
+                "cityPhonetic": "Fuyang"
+            },
+            {
+                "cityName": "滁州",
+                "cityPhonetic": "Chuzhou"
+            },
+            {
+                "cityName": "马鞍山",
+                "cityPhonetic": "Maanshan"
+            },
+            {
+                "cityName": "淮北",
+                "cityPhonetic": "Huaibei"
+            }
+        ]
+    },
+    {
+        "provinceName": "福建",
+        "provincePhonetic": "Fujian",
+        "city": [{
+                "cityName": "厦门",
+                "cityPhonetic": "Xiamen"
+            },
+            {
+                "cityName": "南平",
+                "cityPhonetic": "Nanping"
+            },
+            {
+                "cityName": "三明",
+                "cityPhonetic": "Sanming"
+            },
+            {
+                "cityName": "宁德",
+                "cityPhonetic": "Ningde"
+            },
+            {
+                "cityName": "莆田",
+                "cityPhonetic": "Putian"
+            },
+            {
+                "cityName": "福州",
+                "cityPhonetic": "Fuzhou"
+            },
+            {
+                "cityName": "漳州",
+                "cityPhonetic": "Zhangzhou"
+            },
+            {
+                "cityName": "龙岩",
+                "cityPhonetic": "Longyan"
+            },
+            {
+                "cityName": "泉州",
+                "cityPhonetic": "Quanzhou"
+            }
+        ]
+    },
+    {
+        "provinceName": "四川",
+        "provincePhonetic": "Sichuan",
+        "city": [{
+                "cityName": "广安",
+                "cityPhonetic": "Guangan"
+            },
+            {
+                "cityName": "阿坝藏族羌族自治州",
+                "cityPhonetic": "Abacangzuqiangzuzizhizhou"
+            },
+            {
+                "cityName": "广元",
+                "cityPhonetic": "Guangyuan"
+            },
+            {
+                "cityName": "遂宁",
+                "cityPhonetic": "Suining"
+            },
+            {
+                "cityName": "乐山",
+                "cityPhonetic": "Leshan"
+            },
+            {
+                "cityName": "凉山彝族自治州",
+                "cityPhonetic": "Liangshanyizuzizhizhou"
+            },
+            {
+                "cityName": "泸州",
+                "cityPhonetic": "Luzhou"
+            },
+            {
+                "cityName": "南充",
+                "cityPhonetic": "Nanchong"
+            },
+            {
+                "cityName": "内江",
+                "cityPhonetic": "Najiang"
+            },
+            {
+                "cityName": "宜宾",
+                "cityPhonetic": "Yibin"
+            },
+            {
+                "cityName": "资阳",
+                "cityPhonetic": "Ziyang"
+            },
+            {
+                "cityName": "巴中",
+                "cityPhonetic": "Bazhong"
+            },
+            {
+                "cityName": "攀枝花",
+                "cityPhonetic": "Panzhihua"
+            },
+            {
+                "cityName": "自贡",
+                "cityPhonetic": "Zigong"
+            },
+            {
+                "cityName": "雅安",
+                "cityPhonetic": "Yaan"
+            },
+            {
+                "cityName": "眉山",
+                "cityPhonetic": "Meishan"
+            },
+            {
+                "cityName": "绵阳",
+                "cityPhonetic": "Mianyang"
+            },
+            {
+                "cityName": "德阳",
+                "cityPhonetic": "Deyang"
+            },
+            {
+                "cityName": "成都",
+                "cityPhonetic": "Chengdu"
+            },
+            {
+                "cityName": "甘孜藏族自治州",
+                "cityPhonetic": "Ganzicangzuzizhizhou"
+            },
+            {
+                "cityName": "达州",
+                "cityPhonetic": "Dazhou"
+            }
+        ]
+    },
+    {
+        "provinceName": "江苏",
+        "provincePhonetic": "Jiangsu",
+        "city": [{
+                "cityName": "无锡",
+                "cityPhonetic": "Wuxi"
+            },
+            {
+                "cityName": "常州",
+                "cityPhonetic": "Changzhou"
+            },
+            {
+                "cityName": "盐城",
+                "cityPhonetic": "Yancheng"
+            },
+            {
+                "cityName": "苏州",
+                "cityPhonetic": "Suzhou"
+            },
+            {
+                "cityName": "宿迁",
+                "cityPhonetic": "Suqian"
+            },
+            {
+                "cityName": "徐州",
+                "cityPhonetic": "Xuzhou"
+            },
+            {
+                "cityName": "淮安",
+                "cityPhonetic": "Huaian"
+            },
+            {
+                "cityName": "连云港",
+                "cityPhonetic": "Lianyungang"
+            },
+            {
+                "cityName": "南京",
+                "cityPhonetic": "Nanjing"
+            },
+            {
+                "cityName": "镇江",
+                "cityPhonetic": "Zhenjiang"
+            },
+            {
+                "cityName": "南通",
+                "cityPhonetic": "Nantong"
+            },
+            {
+                "cityName": "扬州",
+                "cityPhonetic": "Yangzhou"
+            },
+            {
+                "cityName": "泰州",
+                "cityPhonetic": "Taizhou"
+            }
+        ]
+    },
+    {
+        "provinceName": "吉林",
+        "provincePhonetic": "Jilin",
+        "city": [{
+                "cityName": "吉林",
+                "cityPhonetic": "Jilin"
+            },
+            {
+                "cityName": "松原",
+                "cityPhonetic": "Songyuan"
+            },
+            {
+                "cityName": "四平",
+                "cityPhonetic": "Siping"
+            },
+            {
+                "cityName": "延边朝鲜族自治州",
+                "cityPhonetic": "Yanbianchaoxianzuzizhizhou"
+            },
+            {
+                "cityName": "长春",
+                "cityPhonetic": "Changchun"
+            },
+            {
+                "cityName": "白城",
+                "cityPhonetic": "Baicheng"
+            },
+            {
+                "cityName": "白山",
+                "cityPhonetic": "Baishan"
+            },
+            {
+                "cityName": "辽源",
+                "cityPhonetic": "Liaoyuan"
+            },
+            {
+                "cityName": "通化",
+                "cityPhonetic": "Tonghua"
+            }
+        ]
+    },
+    {
+        "provinceName": "辽宁",
+        "provincePhonetic": "Liaoning",
+        "city": [{
+                "cityName": "本溪",
+                "cityPhonetic": "Benxi"
+            },
+            {
+                "cityName": "丹东",
+                "cityPhonetic": "Dandong"
+            },
+            {
+                "cityName": "大连",
+                "cityPhonetic": "Dalian"
+            },
+            {
+                "cityName": "阜新",
+                "cityPhonetic": "Fuxin"
+            },
+            {
+                "cityName": "抚顺",
+                "cityPhonetic": "Fushun"
+            },
+            {
+                "cityName": "铁岭",
+                "cityPhonetic": "Tieling"
+            },
+            {
+                "cityName": "锦州",
+                "cityPhonetic": "Jinzhou"
+            },
+            {
+                "cityName": "沈阳",
+                "cityPhonetic": "Shenyang"
+            },
+            {
+                "cityName": "葫芦岛",
+                "cityPhonetic": "Huludao"
+            },
+            {
+                "cityName": "鞍山",
+                "cityPhonetic": "Anshan"
+            },
+            {
+                "cityName": "朝阳",
+                "cityPhonetic": "Chaoyang"
+            },
+            {
+                "cityName": "盘锦",
+                "cityPhonetic": "Panjin"
+            },
+            {
+                "cityName": "辽阳",
+                "cityPhonetic": "Liaoyang"
+            },
+            {
+                "cityName": "营口",
+                "cityPhonetic": "Yingkou"
+            }
+        ]
+    },
+    {
+        "provinceName": "山西",
+        "provincePhonetic": "Shanxi",
+        "city": [{
+                "cityName": "阳泉",
+                "cityPhonetic": "Yangquan"
+            },
+            {
+                "cityName": "晋城",
+                "cityPhonetic": "Jincheng"
+            },
+            {
+                "cityName": "晋中",
+                "cityPhonetic": "Jinzhong"
+            },
+            {
+                "cityName": "太原",
+                "cityPhonetic": "Taiyuan"
+            },
+            {
+                "cityName": "大同",
+                "cityPhonetic": "Datong"
+            },
+            {
+                "cityName": "忻州",
+                "cityPhonetic": "Xinzhou"
+            },
+            {
+                "cityName": "吕梁",
+                "cityPhonetic": "Lvliang"
+            },
+            {
+                "cityName": "长治",
+                "cityPhonetic": "Changzhi"
+            },
+            {
+                "cityName": "临汾",
+                "cityPhonetic": "Linfen"
+            },
+            {
+                "cityName": "运城",
+                "cityPhonetic": "Yuncheng"
+            },
+            {
+                "cityName": "朔州",
+                "cityPhonetic": "Shuozhou"
+            }
+        ]
+    },
+    {
+        "provinceName": "湖南",
+        "provincePhonetic": "Hunan",
+        "city": [{
+                "cityName": "株洲",
+                "cityPhonetic": "Zhuzhou"
+            },
+            {
+                "cityName": "张家界",
+                "cityPhonetic": "Zhangjiajie"
+            },
+            {
+                "cityName": "湘西土家族苗族自治州",
+                "cityPhonetic": "Xiangxitujiazumiaozuzizhizhou"
+            },
+            {
+                "cityName": "益阳",
+                "cityPhonetic": "Yiyang"
+            },
+            {
+                "cityName": "怀化",
+                "cityPhonetic": "Huaihua"
+            },
+            {
+                "cityName": "郴州",
+                "cityPhonetic": "Chenzhou"
+            },
+            {
+                "cityName": "娄底",
+                "cityPhonetic": "Loudi"
+            },
+            {
+                "cityName": "邵阳",
+                "cityPhonetic": "Shaoyang"
+            },
+            {
+                "cityName": "衡阳",
+                "cityPhonetic": "Hengyang"
+            },
+            {
+                "cityName": "常德",
+                "cityPhonetic": "Changde"
+            },
+            {
+                "cityName": "湘潭",
+                "cityPhonetic": "Xiangtan"
+            },
+            {
+                "cityName": "永州",
+                "cityPhonetic": "Yongzhou"
+            },
+            {
+                "cityName": "长沙",
+                "cityPhonetic": "Changsha"
+            },
+            {
+                "cityName": "岳阳",
+                "cityPhonetic": "Yueyang"
+            }
+        ]
+    }
+]
