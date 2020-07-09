@@ -1,7 +1,8 @@
 # China-map-geojson
 包含钓鱼岛和南海诸岛缩略图，西藏敏感地带。如有错误，欢迎提ISSUE！
 
-1. 在线地图制作工具: [geojson.io](http://geojson.io/)
+1. 在线地图制作工具: [geojson.io](http://geojson.io/);
+2. 一个牛逼的GEOJSON生成网站：[GEO Atlas](http://datav.aliyun.com/tools/atlas/#&lat=31.090574094954192&lng=91.14257812499999&zoom=4)
 
 ### update: 2020-07-09
 
