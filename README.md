@@ -4,6 +4,10 @@
 1. 在线地图制作工具: [geojson.io](http://geojson.io/);
 2. 一个牛逼的GEOJSON生成网站：[GEO Atlas](http://datav.aliyun.com/tools/atlas/#&lat=31.090574094954192&lng=91.14257812499999&zoom=4)
 
+### update: 2020-10-28
+
+1. 增加了高德地图的adcode查询表，该表可能包含一些较旧的、接口查不到的数据；
+
 ### update: 2020-07-09
 
 1. 规范化china-geo-json数据格式，解决了在d3.js处理下面的一些bug
